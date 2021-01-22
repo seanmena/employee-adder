@@ -6,7 +6,7 @@ This tool allows you to add teammember with inquirer. It created a team.html fil
 
 ##
 
-![alt text](https://github.com/[seanmena13]/[employee-10]/blob/[master]Develop/readme/Screen Shot 2021-01-21 at 7.05.42 PM.png)
+![picture of repo](https://github.com/seanmena/employee-10/blob/master/Develop/readme/Screen%20Shot%202021-01-21%20at%207.05.42%20PM.pngg)
 
 ## Installation
 
