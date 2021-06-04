@@ -2,9 +2,7 @@
 
 ## Description
 
-This tool allows you to add teammember with inquirer. It created a team.html file to display your results.
-
-##
+Tool that prompts you to organize your employees in one place. After adding people to your team it will show a webpage with your team organized nicely on it.
 
 ## Demo
 https://www.youtube.com/watch?v=uzT2DB4h2HA
