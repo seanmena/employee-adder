@@ -19,6 +19,3 @@ Clone this repo, cd to Develop folder "node app.js"
 
 seanmenadev@gmail.com
 
-## Video
-
-"https://www.youtube.com/watch?v=uzT2DB4h2HA"
